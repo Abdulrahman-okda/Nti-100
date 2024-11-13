@@ -253,6 +253,7 @@ hr {
 }
 
 form {
+    direction: ltr;
     margin-left: 8rem;
 }
 
